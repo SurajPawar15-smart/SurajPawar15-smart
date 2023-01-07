@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/SurajPawar15-smart/SurajPawar15-smart/blob/24cc3cef71c74189663456c98c3e24c52810d3d3/logo.png)
 <h1 align="center">Hi 👋, I'm Suraj Sanjeev Pawar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
